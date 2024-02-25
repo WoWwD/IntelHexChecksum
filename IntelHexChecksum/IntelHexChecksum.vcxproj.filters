@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="IntelHexChecksum.cpp">
+    <ClCompile Include="main.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="helpers.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
